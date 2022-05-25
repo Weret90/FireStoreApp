@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FireStoreApp</string>
+    <string name="reload">Reload</string>
+    <string name="time_label">Дата и время:</string>
+    <string name="pressure_label">Давление (мм.рт.ст.):</string>
+    <string name="pulse_label">Пульс (уд./мин.):</string>
 </resources>
